@@ -50,6 +50,7 @@
         <entry key="..\:/AndroidProjects/kmj_reco/app/src/main/res/layout/recode_level.xml" value="0.5536458333333333" />
         <entry key="..\:/AndroidProjects/kmj_reco/app/src/main/res/layout/recode_main.xml" value="0.2692502532928065" />
         <entry key="..\:/AndroidProjects/kmj_reco/app/src/main/res/layout/title_bar.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/blook/AndroidStudioProjects/girugi/RECO/kmj_reco/app/src/main/res/layout/activity_delete_account_finish.xml" value="0.4" />
         <entry key="..\:/Users/blook/AndroidStudioProjects/kmj_reco/kmj_reco/app/src/main/res/drawable-v24/progressbar_custom.xml" value="0.137" />
         <entry key="..\:/Users/blook/AndroidStudioProjects/kmj_reco/kmj_reco/app/src/main/res/drawable/border.xml" value="0.1185" />
         <entry key="..\:/Users/blook/AndroidStudioProjects/kmj_reco/kmj_reco/app/src/main/res/layout/activity_camera.xml" value="0.1" />
@@ -103,7 +104,7 @@
         <entry key="app/src/main/res/layout/activity_notice_admin.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/activity_notice_detail.xml" value="0.2490740740740741" />
         <entry key="app/src/main/res/layout/activity_personal_info.xml" value="0.26481481481481484" />
-        <entry key="app/src/main/res/layout/activity_qr.xml" value="0.27708333333333335" />
+        <entry key="app/src/main/res/layout/activity_qr.xml" value="0.23703703703703705" />
         <entry key="app/src/main/res/layout/activity_reco_point.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/layout/activity_recobin_admin.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/activity_recobin_admin_add.xml" value="0.27708333333333335" />
@@ -114,7 +115,7 @@
         <entry key="app/src/main/res/layout/activity_service_admin_detail.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/activity_service_center.xml" value="0.27708333333333335" />
         <entry key="app/src/main/res/layout/activity_service_detail.xml" value="0.27708333333333335" />
-        <entry key="app/src/main/res/layout/activity_service_history.xml" value="0.24444444444444444" />
+        <entry key="app/src/main/res/layout/activity_service_history.xml" value="0.3159720526801215" />
         <entry key="app/src/main/res/layout/activity_settings.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_user_acount.xml" value="0.2786458333333333" />
         <entry key="app/src/main/res/layout/address.xml" value="0.26851851851851855" />
@@ -128,7 +129,7 @@
         <entry key="app/src/main/res/layout/intro.xml" value="0.25092592592592594" />
         <entry key="app/src/main/res/layout/item_coupon_admin.xml" value="0.2765625" />
         <entry key="app/src/main/res/layout/item_coupon_admin_detail.xml" value="0.2765625" />
-        <entry key="app/src/main/res/layout/item_gifticon.xml" value="0.2765625" />
+        <entry key="app/src/main/res/layout/item_gifticon.xml" value="0.4164794921875" />
         <entry key="app/src/main/res/layout/item_gifticon_history.xml" value="0.2765625" />
         <entry key="app/src/main/res/layout/item_login_admin.xml" value="0.3105876216182003" />
         <entry key="app/src/main/res/layout/item_notice.xml" value="0.3333333333333333" />
