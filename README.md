@@ -41,7 +41,7 @@
 ##### 🦊 어수비 / Su Bi Eo / Backend & Frontend
 <h5>기여도 |  100% </h5>
 <h5>
-  - Front-end / Back-end <br/>
+  - Back-end / Front-end <br/>
   - Tech. writer <br/>
   - Data Collect Leader <br/ > <br/>
   - 로그인 / 회원가입 / 마이페이지 / 개인정보 수정 / Service Center Inquiry(문의 작성) / Service Center History(문의 내역) <br/>
@@ -143,8 +143,9 @@
 <img width="80%" src="https://user-images.githubusercontent.com/92639359/199472412-bd896228-9100-4e96-b9d5-ba9c8e18844a.jpg"/>
   
 ## 🏆Contest
-> 2022년도 4차 산업혁명 인재양성 선도전문대 공모전-캡스톤경진실적물 장려상 </br>
-> 제 10회 대학생 앱개발 챌린지 K-해커톤 본선 진출
+- 2022년도 4차 산업혁명 인재양성 선도전문대 공모전-캡스톤경진실적물 장려상 </br>
+- 제 10회 대학생 앱개발 챌린지 K-해커톤 본선 진출</br>
+- 한양여자대학교 빅데이터과 사회맞춤형 과정 은상 
 
 <br/>
 
